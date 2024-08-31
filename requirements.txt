@@ -1,0 +1,6 @@
+streamlit==1.21.0
+pandas==2.0.2
+seaborn==0.12.2
+matplotlib==3.7.1
+pycountry==22.3.5
+fuzzywuzzy==0.18.0
