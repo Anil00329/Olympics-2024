@@ -7,7 +7,7 @@ import seaborn as sns
 @st.cache_data
 def load_data():
     # Replace 'path_to_your_csv_file.csv' with the actual path to your dataset
-    return pd.read_csv('C:\Users\acer\Downloads\Project\Olympics_2024.csv')
+    return pd.read_csv('C:/Users/acer/Downloads/Project/Olympics_2024.csv')
 
 # Load data
 data = load_data()
